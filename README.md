@@ -1,0 +1,2 @@
+# animation-components
+アニメーションが付与されたリッチなコンポーネントを提供
